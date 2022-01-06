@@ -18,8 +18,8 @@ This article provides an overview of the key elements in an IoT Central solution
 
 An IoT Central application:
 
-- Lets you manage the IoT devices in your solution.
-- Lets you view and analyze the data from your devices.
+- Let you manage the IoT devices in your solution.
+- Let you view and analyze the data from your devices.
 - Can export to and integrate with other services that are part of the solution.
 
 ## IoT Central
